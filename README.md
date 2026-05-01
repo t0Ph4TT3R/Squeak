@@ -1,11 +1,11 @@
-This is a CAD file of a custom shell made for the Bambu Wireless Mouse Components Kit. The file was made by following a HackClub guide.
+This is a CAD file of a custom shell made for the Bambu Wireless Mouse Components Kit. The reason why I made it is because I personally thought it would be a cool small project to practice my CADing skills that I might actually use without other things I would need like a PCB. The file was made by following a HackClub guide.
 
 Images:
-<img width="904" height="496" alt="image" src="https://github.com/user-attachments/assets/f832fb73-ac28-4245-8c40-67094a791226" />
+<img width="823" height="587" alt="Screenshot 2026-04-30 184956" src="https://github.com/user-attachments/assets/b8d9d00f-b2aa-44ec-8a21-34d923230c08" />
 
-<img width="596" height="708" alt="image" src="https://github.com/user-attachments/assets/1f69c6ab-ba09-4464-9a9e-5fb1d1641d3b" />
+<img width="906" height="321" alt="Screenshot 2026-04-28 220904" src="https://github.com/user-attachments/assets/9e50482a-706a-4573-bb20-9d7385e145cf" />
 
-<img width="687" height="271" alt="image" src="https://github.com/user-attachments/assets/97d2f7a9-4e49-4ade-ba75-9b2fa3d5c9b3" />
+<img width="753" height="675" alt="Screenshot 2026-04-28 220841" src="https://github.com/user-attachments/assets/84f2d823-5be0-4c0a-b11b-6cfd9e108c18" />
 
 Here is the link for Bambu Kit if you are interested:
 https://us.store.bambulab.com/products/wireless-mouse-components-kit-002?srsltid=AfmBOork973hCzJxGFizW9kf2UM5aElJm5Hkdhpn542acragJXGPdWY5&id=41806859403400
