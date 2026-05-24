@@ -7,5 +7,8 @@ Images:
 
 <img width="753" height="675" alt="Screenshot 2026-04-28 220841" src="https://github.com/user-attachments/assets/84f2d823-5be0-4c0a-b11b-6cfd9e108c18" />
 
+<img width="4080" height="3060" alt="20260430_181833 (1)" src="https://github.com/user-attachments/assets/8ad61511-60dc-4963-b8b2-842f96cd3460" />
+
+
 Here is the link for Bambu Kit if you are interested:
 https://us.store.bambulab.com/products/wireless-mouse-components-kit-002?srsltid=AfmBOork973hCzJxGFizW9kf2UM5aElJm5Hkdhpn542acragJXGPdWY5&id=41806859403400
